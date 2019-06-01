@@ -1,7 +1,7 @@
 import time
 
-size = 10000
-print 'Using Array Size: %s' % (size)
+size = 1000000
+print 'Using Array Size: %s' % size
 
 t0 = time.time()
 result = 0
