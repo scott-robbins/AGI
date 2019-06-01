@@ -7,7 +7,7 @@ class test{
 
         int result = 0;
         int size = Integer.parseInt(args[0]);
-        System.out.format("Using Size: %d%n", size);
+        System.out.format("Accumulating Using For-Loop Size: %d%n", size);
         for(int i=0;i<size;i++){
             result += i;
         }

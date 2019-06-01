@@ -10,7 +10,7 @@ void main(int argc, char **argv){
 
         int size;
         sscanf (argv[1],"%d",&size);
-        printf("Using size: %d\n", size);
+        printf("Accumulating Using For-Loop size: %d\n", size);
 
         int result = 0;
         for (int i=0;i<size;i++){
@@ -18,7 +18,7 @@ void main(int argc, char **argv){
         }
         clock_t end = clock();
         double dt = (double)(end - start) / CLOCKS_PER_SEC;
-        printf("Result: %d\t Time Elapsed:%f\n", result, dt);
+        printf("Result: %d\t Time Elapsed:%f seconds\n", result, dt);
     }
 
 }
