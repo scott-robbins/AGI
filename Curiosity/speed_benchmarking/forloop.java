@@ -3,6 +3,10 @@ import java.io.*;
 class test{
 
     public static void main(String [] args){
+        if (args.length < 2){
+            System.out.println("Usage: java test <size>");
+            exit(0);
+        }
         long start = System.currentTimeMillis();
 
         int result = 0;
