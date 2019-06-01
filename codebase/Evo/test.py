@@ -125,7 +125,7 @@ def main():
 
     # Now Evaluate the fitness of each walk, and mutate/crossover
     config = assign_fitness(config)
-    
+
 
 if __name__ == '__main__':
     main()
