@@ -50,9 +50,9 @@ how the languages stack up on this simple operation.
 Then I cloned this branch on a raspberry pi, recompiled the java and C scripts
 and retried the benchmark scripts. 
 
-![pibench](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiousity/speed_benchmarking/pi_benchmark.png)
+![pibench](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/pi_benchmark.png)
 
 
-![io](https://raw.githubusercontent.com/scott-robbins/AGI/master/CUriousity/speed_benchmarking/fIO.png)
+![fio](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/fIO.png)
 
-![pio](https://raw.githubusercontent.com/scott-robbins/AGI/master/CUriousity/speed_benchmarking/pIO.png)
+![pio](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/pIO.png)
