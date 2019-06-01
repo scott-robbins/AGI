@@ -52,7 +52,29 @@ and retried the benchmark scripts.
 
 ![pibench](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/pi_benchmark.png)
 
+OK, this isn't all that impressive though. What about a more memory intensive process
+like trying to lead a large file? I wrote three scripts to read through a file (provided
+as argument to program), and when it's finished it displays how many lines it read and the
+run time of the program. 
+
+Using a ~500k word word-list, we see a clear separation in performance begin to emerge once. 
 
 ![fio](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/fIO.png)
 
 ![pio](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/pIO.png)
+
+Results: 
+
+           ____Laptop BenchMarks____
+          | Python | Java | C       |
+          | 9.69ms | 12ms | 2.58ms  |  For-Loop         
+          | 126 ms | 83ms | 222.2ms |  File IO
+         
+           _Raspberry Pi Benchmarks_
+          | Python | Java |    C    |
+          | 20.7 ms| 69ms | 5.3 ms  | For-Loop
+          | 1.397 s| 979ms| 140.3 ms| File I-O 
+ 
+ By Far the code written in C is fastest for both a laptop and a Raspberry pi, however it is 
+ interesting to see the orders of magnitude difference between the languages and across different domains. 
+ 
