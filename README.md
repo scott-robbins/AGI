@@ -30,3 +30,24 @@ models!?
  * Logic 
  * Learning/Associations
  * Learning/Generative Models 
+ 
+# Curiosity 
+This is my sandbox for things computers.
+
+## Benchmarking 
+I decided to write a program that would take a single argument
+to declare a stopping that a for-loop walks up to, accumulating 
+a result along the way. The program then displays the final count
+and the time elapsed. 
+
+I tried to keep the general idea as identical as possible, writing
+the same procedure in C, Python and Java. Running these programs 
+size by side, and increasing the size of the input, you can see
+how the languages stack up on this simple operation. 
+
+![bench](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiosity/speed_benchmarking/ForLoop_Benchmarks.png)
+
+Then I cloned this branch on a raspberry pi, recompiled the java and C scripts
+and retried the benchmark scripts. 
+
+![pibench](https://raw.githubusercontent.com/scott-robbins/AGI/master/Curiousity/speed_benchmarking/pi_benchmark.png)
