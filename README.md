@@ -67,12 +67,12 @@ Results:
 
            ____Laptop BenchMarks____
           | Python | Java | C       |
-          | 9.69ms | 12ms | 2.58ms  |  For-Loop         
-          | 126 ms | 83ms | 222.2ms |  File IO
+          | 9.69ms | 12ms | 2.58 ms |  For-Loop         
+          | 126 ms | 83ms | 22.2 ms |  File IO
          
            _Raspberry Pi Benchmarks_
           | Python | Java |    C    |
-          | 20.7 ms| 69ms | 5.3 ms  | For-Loop
+          | 20.7 ms| 69 ms| 5.3 ms  | For-Loop
           | 1.397 s| 979ms| 140.3 ms| File I-O 
  
  By Far the code written in C is fastest for both a laptop and a Raspberry pi, however it is 
