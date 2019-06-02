@@ -78,3 +78,8 @@ Results:
  By Far the code written in C is fastest for both a laptop and a Raspberry pi, however it is 
  interesting to see the orders of magnitude difference between the languages and across different domains. 
  
+ The results do seem to confirm a suspicion I've had though, that python is generally faster for numeric 
+ calculations, and computation intensive programming while java excels in the file IO and string manipulation
+ domaian. Then again, that could be my own approach to programming in these languages, however as the benchmark
+ scripts are basically 10-20 lines each I think it's a fairly bare bones side by side comparison. 
+ 
