@@ -92,7 +92,7 @@ def assign_fitness(config):
 def mutate_dataset(config, mutates):
     for id in mutates.keys():
         if mutates[id]:
-            walk = config['walk'][id]
+            walk = config['walks'][id]
     return config
 
 

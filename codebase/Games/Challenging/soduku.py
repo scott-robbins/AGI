@@ -42,11 +42,17 @@ def generate_random_soduku_board(difficulty):
     row3 = np.concatenate((cells[7], cells[8], cells[9]), 1)
     board = np.concatenate((row1, row2, row3), 0)
     # TODO: Make a check to confirm board is legal!!
+    for col in range(board.shape[0]):
+        row = board[col, :]
+        if np.unique(row) != row:
+            print '%s\t  %s' % (np.unique(row), row)
+        else:
+            print row
     return board
 
 
 # Generate random soduku board
 difficulty = 6
 board = generate_random_soduku_board(difficulty)
+#print board
 
-print board
