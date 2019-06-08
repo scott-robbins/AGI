@@ -1,5 +1,6 @@
 import numpy as np
 import time
+import sys
 
 
 class Board:
@@ -37,20 +38,20 @@ class Board:
             self.state[pos[0], pos[1]] = mov
             return True
         else:
-           return False
+            return False
 
-    def isComplete(self):
+    def is_complete(self):
         finished = False
         row1 = self.state[0, :]
         row2 = self.state[1, :]
         row3 = self.state[2, :]
 
-        col1 = self.state[:,0]
-        col2 = self.state[:,1]
-        col3 = self.state[:,2]
+        col1 = self.state[:, 0]
+        col2 = self.state[:, 1]
+        col3 = self.state[:, 2]
 
-        dag1 = [self.state[0,0], self.state[1,1], self.state[2,2]]
-        dag2 = [self.state[0,2], self.state[1,1], self.state[2,0]]
+        dag1 = [self.state[0, 0], self.state[1, 1], self.state[2, 2]]
+        dag2 = [self.state[0, 2], self.state[1, 1], self.state[2, 0]]
 
         # BOOLEANS
         r1 = len(np.unique(row1)) == 1 and -1 not in row1
@@ -96,7 +97,10 @@ class Player:
         if val not in self.states.keys():
             print 'Illegal Value!'
             exit(0)
-        board.set_state([x, y], self.states[val])
+        elif not board.set_state([y, x], self.states[val]):
+            print 'False Move?!'
+            exit(0)
+        board.set_state([y, x], self.states[val])
         self.board = board.state
         return board
 
@@ -108,19 +112,23 @@ robot = Player(board)
 
 blank, Xs, Os = board.blank_squares()
 
-while board.blank_squares()[0] > 0:
-    t0 = time.time()
-    board = robot.random_move(board)
-    if board.isComplete():
-        print 'Robot Wins!'
-        board.show_board()
-        exit(0)
+if '-easy' in sys.argv:
+    while board.blank_squares()[0] > 0:
+        t0 = time.time()
+        board = robot.random_move(board)
+        if board.is_complete():
+            print 'Robot Wins!'
+            board.show_board()
+            dt = time.time() - t0
+            break
 
-    board.show_board()
-    board = player1.interactive_move(board)
-    if board.isComplete():
-        print 'Player 1 Wins!'
         board.show_board()
-        exit(0)
-    print '-------------------------------------'
+        board = player1.interactive_move(board)
+        if board.is_complete():
+            print 'Player 1 Wins!'
+            board.show_board()
+            dt = time.time() - t0
+            break
 
+        print '-------------------------------------'
+    print '\033[1m%ds Elapsed]\033[0m' % dt
