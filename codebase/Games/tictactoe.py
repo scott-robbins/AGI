@@ -46,7 +46,7 @@ class Board:
                 blank += 1
             elif cell == 1:
                 xs += 1
-            elif cell == -1:
+            elif cell == 0:
                 os += 1
         return blank, xs, os
 
@@ -90,8 +90,7 @@ class Board:
 
 class Player:
     board = Board
-    winner = False
-    loser = False
+    hold_center = False
     game_tree = {1: [], -1: [], 0: []}
     oppt_tree = {1: [], -1: [], 0: []}
     states = {'X': 1, 'O': 0, 'x': 1, 'o': 0}
@@ -107,7 +106,6 @@ class Player:
             val = np.random.random_integers(0, 1, 1)[0]
             moved = board.set_state([x, y], val)
             self.board = board.state
-
         return board
 
     def interactive_move(self, board):
@@ -125,33 +123,25 @@ class Player:
         return board
 
     def adversarial_move(self, board, is_opponent):
-        blank, xs, os = self.survey_board(board)
-        possible_moves = {-1: [], 1: [], 0: []}
-        for bp in blank:
-            if bp not in self.game_tree[-1]:
-                list(set(self.oppt_tree[-1])).append(bp)
-            elif bp not in self.oppt_tree[-1]:
-                possible_moves[-1].append(bp)
-        for xp in xs:
-            if xp not in self.game_tree[1]:
-                list(set(self.oppt_tree[1])).append(xp)
-            elif xp not in self.oppt_tree[1]:
-                possible_moves[1].append(xp)
-        for op in os:
-            if op not in self.game_tree[0]:
-                list(set(self.oppt_tree[0])).append(op)
-            elif op not in self.oppt_tree[0]:
-                possible_moves[0].append(op)
-        print possible_moves
-        print self.oppt_tree
-        if is_opponent:
-            moved = False
-            while not moved:
-                [x, y] = self.oppt_tree[-1].pop()
-                val = np.random.random_integers(0, 1, 1)[0]
-                moved = board.set_state([x, y], val)
-                self.board = board.state
-        return possible_moves, board
+
+        blanks, xs, os = self.survey_board(board)
+        if [1, 1] in blanks:
+            board.set_state([1, 1], 1)
+            self.hold_center = True
+            return
+        else:
+            possible_moves = blanks
+            row1 = board.state[0, :]
+            row2 = board.state[1, :]
+            row3 = board.state[2, :]
+
+            col1 = board.state[:, 0]
+            col2 = board.state[:, 1]
+            col3 = board.state[:, 2]
+
+            dag1 = [board.state[0, 0], board.state[1, 1], board.state[2, 2]]
+            dag2 = [board.state[0, 2], board.state[1, 1], board.state[2, 0]]
+
 
     def survey_board(self, board):
         blank = []
@@ -162,51 +152,55 @@ class Player:
             if cell == -1:
                 blank.append(ind2sub(ii,[3,3]))
             elif cell == 1:
-                xs += 1
                 xs.append(ind2sub(ii,[3,3]))
-            elif cell == -1:
-                os += 1
+            elif cell == 0:
                 os.append(ind2sub(ii,[3,3]))
             ii += 1
         return blank, xs, os
 
-board = Board()
-player1 = Player(board)
-robot = Player(board)
 
-blank, Xs, Os = board.blank_squares()
+def main():
+    board = Board()
+    player1 = Player(board)
+    robot = Player(board)
+    blank, Xs, Os = board.blank_squares()
+    if '-easy' in sys.argv:
+        while board.blank_squares()[0] > 0:
+            t0 = time.time()
+            board = robot.random_move(board)
+            if board.is_complete():
+                print 'Robot Wins!'
+                board.show_board()
+                dt = time.time() - t0
+                break
 
-if '-easy' in sys.argv:
-    while board.blank_squares()[0] > 0:
-        t0 = time.time()
-        board = robot.random_move(board)
-        if board.is_complete():
-            print 'Robot Wins!'
             board.show_board()
-            dt = time.time() - t0
-            break
+            board = player1.interactive_move(board)
+            if board.is_complete():
+                print 'Player 1 Wins!'
+                board.show_board()
+                dt = time.time() - t0
+                break
 
+            print '-------------------------------------'
+        print '\033[1m%ds Elapsed]\033[0m' % dt
+
+    if 'ai' in sys.argv:
+        # TODO: Medium/Hard
+        '''
+        Planning Agent w/ Goals:
+        ===========================
+        * Stopping Opponent Success
+        * Achieving goal conditions 
+        '''
+        robot2 = Player(board)
+        board = robot2.random_move(board)
         board.show_board()
-        board = player1.interactive_move(board)
-        if board.is_complete():
-            print 'Player 1 Wins!'
-            board.show_board()
-            dt = time.time() - t0
-            break
-
         print '-------------------------------------'
-    print '\033[1m%ds Elapsed]\033[0m' % dt
-
-# TODO: Medium/Hard
-'''
-Planning Agent w/ Goals:
-===========================
-* Stopping Opponent Success
-* Achieving goal conditions 
+        robot.adversarial_move(board, True)
+        board.show_board()
 
 
-'''
-opts, board = robot.adversarial_move(board, True)
-board.show_board()
-opts, board = robot.adversarial_move(board, True)
-board.show_board()
+
+if __name__ == '__main__':
+    main()
