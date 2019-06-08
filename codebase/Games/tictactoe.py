@@ -3,6 +3,24 @@ import time
 import sys
 
 
+def ind2sub(index,dims):
+    """
+    Given an index and array dimensions,
+    convert an index to [x,y] subscript pair.
+    :param index:
+    :param dims:
+    :return tuple - subscripts :
+    """
+    subs = []
+    ii = 0
+    for y in range(dims[0]):
+        for x in range(dims[1]):
+            if index == ii:
+                subs = [y, x]
+            ii +=1
+    return subs
+
+
 class Board:
     state = [[]]
     X = 1
@@ -74,6 +92,8 @@ class Player:
     board = Board
     winner = False
     loser = False
+    game_tree = {1: [], -1: [], 0: []}
+    oppt_tree = {1: [], -1: [], 0: []}
     states = {'X': 1, 'O': 0, 'x': 1, 'o': 0}
 
     def __init__(self, state):
@@ -104,7 +124,51 @@ class Player:
         self.board = board.state
         return board
 
+    def adversarial_move(self, board, is_opponent):
+        blank, xs, os = self.survey_board(board)
+        possible_moves = {-1: [], 1: [], 0: []}
+        for bp in blank:
+            if bp not in self.game_tree[-1]:
+                list(set(self.oppt_tree[-1])).append(bp)
+            elif bp not in self.oppt_tree[-1]:
+                possible_moves[-1].append(bp)
+        for xp in xs:
+            if xp not in self.game_tree[1]:
+                list(set(self.oppt_tree[1])).append(xp)
+            elif xp not in self.oppt_tree[1]:
+                possible_moves[1].append(xp)
+        for op in os:
+            if op not in self.game_tree[0]:
+                list(set(self.oppt_tree[0])).append(op)
+            elif op not in self.oppt_tree[0]:
+                possible_moves[0].append(op)
+        print possible_moves
+        print self.oppt_tree
+        if is_opponent:
+            moved = False
+            while not moved:
+                [x, y] = self.oppt_tree[-1].pop()
+                val = np.random.random_integers(0, 1, 1)[0]
+                moved = board.set_state([x, y], val)
+                self.board = board.state
+        return possible_moves, board
 
+    def survey_board(self, board):
+        blank = []
+        xs = []
+        os = []
+        ii = 0
+        for cell in np.array(board.state).flatten():
+            if cell == -1:
+                blank.append(ind2sub(ii,[3,3]))
+            elif cell == 1:
+                xs += 1
+                xs.append(ind2sub(ii,[3,3]))
+            elif cell == -1:
+                os += 1
+                os.append(ind2sub(ii,[3,3]))
+            ii += 1
+        return blank, xs, os
 
 board = Board()
 player1 = Player(board)
@@ -132,3 +196,17 @@ if '-easy' in sys.argv:
 
         print '-------------------------------------'
     print '\033[1m%ds Elapsed]\033[0m' % dt
+
+# TODO: Medium/Hard
+'''
+Planning Agent w/ Goals:
+===========================
+* Stopping Opponent Success
+* Achieving goal conditions 
+
+
+'''
+opts, board = robot.adversarial_move(board, True)
+board.show_board()
+opts, board = robot.adversarial_move(board, True)
+board.show_board()
