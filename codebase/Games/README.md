@@ -34,4 +34,4 @@ Keeping track of X's and O's with 1s and 0s:
 draw = {-1: ' ', 1: 'X', 0: 'O'}
 states = {'X': 1, 'O': 0, 'x': 1, 'o': 0}`
 
-![stochastic](https://raw.githubusercontent.com/scott-robbins/AGI/tree/master/codebase/easy_tic.png)
+![stochastic](https://raw.githubusercontent.com/scott-robbins/AGI/master/codebase/Games/easy_tic.png)
