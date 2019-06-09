@@ -21,6 +21,18 @@ def ind2sub(index,dims):
     return subs
 
 
+def mat2board(matrix):
+    elements = Board.draw
+    board = [[]]
+    for col in range(matrix.shape[0]):
+        R = ''
+        for row in range(matrix.shape[1]):
+            R+= elements[int(matrix[row, col])] + ' '
+        R += '\n'
+        board.append(R)
+    return board
+
+
 class Board:
     state = [[]]
     X = 1
@@ -131,17 +143,11 @@ class Player:
             return
         else:
             possible_moves = blanks
-            row1 = board.state[0, :]
-            row2 = board.state[1, :]
-            row3 = board.state[2, :]
 
-            col1 = board.state[:, 0]
-            col2 = board.state[:, 1]
-            col3 = board.state[:, 2]
-
-            dag1 = [board.state[0, 0], board.state[1, 1], board.state[2, 2]]
-            dag2 = [board.state[0, 2], board.state[1, 1], board.state[2, 0]]
-
+            choice_loc = possible_moves.pop()
+            choice_mov = np.random.random_integers(0,1,1)[0]
+            board.set_state(choice_loc, choice_mov)
+            return
 
     def survey_board(self, board):
         blank = []
@@ -160,6 +166,7 @@ class Player:
 
 
 def main():
+    t0 = time.time()
     board = Board()
     player1 = Player(board)
     robot = Player(board)
@@ -185,22 +192,50 @@ def main():
             print '-------------------------------------'
         print '\033[1m%ds Elapsed]\033[0m' % dt
 
-    if 'ai' in sys.argv:
+    if 'ai_train' in sys.argv:
         # TODO: Medium/Hard
+        t0 = time.time()
+
+        n_round = 10
         '''
         Planning Agent w/ Goals:
         ===========================
         * Stopping Opponent Success
         * Achieving goal conditions 
         '''
-        robot2 = Player(board)
-        board = robot2.random_move(board)
-        board.show_board()
-        print '-------------------------------------'
-        robot.adversarial_move(board, True)
-        board.show_board()
+        history = np.zeros((n_round,3,3))
 
+        base_line = {'random_wins': 0,
+                     'smarty_wins': 0}
+        i = 0
+        while i < n_round:
+            ii = 0
+            while board.blank_squares()[0] > 0:
+                robot2 = Player(board)
+                board = robot2.random_move(board)
+                if board.is_complete():
+                    #board.show_board()
+                    history[ii, :, :] = board.state
+                    dt = time.time() - t0
+                    base_line['random_wins'] += 1
+                    break
+                robot.adversarial_move(board, True)
+                if board.is_complete():
+                    #board.show_board()
+                    history[ii, :, :] = board.state
+                    dt = time.time() - t0
+                    base_line['smarty_wins'] += 1
+                    break
+                history[ii, :, :] = board.state
+                ii += 1
+            dt = time.time() - t0
+            i += 1
+        print base_line
+        dt = time.time() - t0
+        print '\033[1m%ds Elapsed]\033[0m' % dt
 
+        for line in mat2board(history[0]):
+            print line
 
 if __name__ == '__main__':
     main()
