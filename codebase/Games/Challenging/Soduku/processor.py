@@ -4,18 +4,15 @@ import sys
 
 
 def split_board(board):
-    s1 = board[0:3, 0:3]
-    s2 = board[0:3, 3:6]
-    s3 = board[0:3, 6:9]
-    s4 = board[3:6, 0:3]
-    s5 = board[3:6, 3:6]
-    s6 = board[3:6, 6:9]
-    s7 = board[6:9, 0:3]
-    s8 = board[6:9, 3:6]
-    s9 = board[6:9, 6:9]
-    subsquares = [[s1, s2, s3],
-                  [s4, s5, s6],
-                  [s7, s8, s9]]
+    subsquares = {1: board[0:3, 0:3],
+                  2: board[0:3, 3:6],
+                  3: board[0:3, 6:9],
+                  4: board[3:6, 0:3],
+                  5: board[3:6, 3:6],
+                  6: board[3:6, 6:9],
+                  7: board[6:9, 0:3],
+                  8: board[6:9, 3:6],
+                  9: board[6:9, 6:9]}
     return subsquares
 
 
@@ -60,6 +57,7 @@ def check_board(board):
     return solved_cols, solved_rows, solved
 
 
+debug =  True
 if 'test' in sys.argv and len(sys.argv) == 3:
     t0 = time.time()
     board = []
@@ -73,27 +71,65 @@ if 'test' in sys.argv and len(sys.argv) == 3:
                 r.append(int(e))
         board.append(r)
     board = np.array(board)
-    print '====================================='
-    print 'Test Board Loaded: '
-    print board
-    print '====================================='
+    if debug:
+        print '====================================='
+        print 'Test Board Loaded: '
+        print board
+        print '====================================='
 
-    squares = split_board(board)
+
     solved = False
-    # while not solved:
-    #     cols, rows, solved = check_board(board)
-    #     if solved:
-    #         print '\033[1m\033[31mFINISHED! \033[0m\033[1m[%s]\033[0m' % str(time.time()-t0)
-    #     # Swap out the zeros
-    #     for col in cols:
-    #         if not col:
-    cols, rows, solved = check_board(board)
-    # Swap out the zeros
-    for col in cols:
-        if type(cols[col]) == list:
-            print np.array(cols[col]).nonzero()
-    for row in rows:
-        if type(rows[row]) == list:
-            print np.array(rows[row]).nonzero()
+    while not solved:
+        cols, rows, solved = check_board(board)
+        if solved:
+            print '\033[1m\033[31mFINISHED! \033[0m\033[1m[%s]\033[0m' % str(time.time()-t0)
+        '''
+        Algorithm for solving:
+        [1] Pick number 1-9
+        [2] Find num in each sub square, and cancel all adjacent 
+        rows/cols, hoping to swap num with zeros in sub squares
+        not containing selected num. 
+        [3] Scan adjacent rows and columns to complete their 1-9
+         ^ (Only useful when there are rows and columns with one 
+         or two zeros. 
+        '''
+        squares = split_board(board)
+        start = np.random.random_integers(1, 9, 1)[0]
+        print 'starting with  %s' % start
 
+        subcontain = list()
+        for sq in squares.keys():
+            if start in np.array(squares[sq]).flatten():
+                subcontain.append(sq)
+        print subcontain
 
+        subsquares = {1: [(0,0),(1,0),(2,0),
+                         (0,1),(1,1),(2,1),
+                         (0,2),(1,2),(2,2)],
+                      2: [(3,0),(4,0),(5,0),
+                         (3,1),(4,1),(5,1),
+                         (3,2),(4,2),(5,2)],
+                      3: [(6,0),(7,0),(8,0),
+                         (6,1),(7,1),(8,1),
+                         (6,2),(7,2),(8,2)],
+                      4: [(0,3),(1,3),(2,3),
+                         (0,4),(1,4),(2,4),
+                         (0,5),(1,5),(2,5)],
+                      5: [(3,3),(4,3),(5,3),
+                         (3,4),(4,4),(5,4),
+                         (3,5),(4,5),(5,5)],
+                      6: [(6,3),(7,3),(8,3),
+                          (6,4),(7,4),(8,4),
+                          (6,5),(7,5),(8,5)],
+                      7: [(0,6),(1,6),(2,6),
+                          (0,7),(1,7),(2,7),
+                          (0,8),(1,8),(2,8)],
+                      8: [(3,6),(4,6),(5,6),
+                          (3,7),(4,7),(5,7),
+                          (3,8),(4,8),(5,8)],
+                      9: [(6,6),(7,6),(8,6),
+                          (6,7),(7,7),(8,7),
+                          (6,8),(7,8),(8,0)]}
+
+        if debug:
+            break
