@@ -2,6 +2,34 @@ import numpy as np
 import time
 import sys
 
+subsquares = {1: [(0, 0), (1, 0), (2, 0),
+                      (0, 1), (1, 1), (2, 1),
+                      (0, 2), (1, 2), (2, 2)],
+                  2: [(3, 0), (4, 0), (5, 0),
+                      (3, 1), (4, 1), (5, 1),
+                      (3, 2), (4, 2), (5, 2)],
+                  3: [(6, 0), (7, 0), (8, 0),
+                      (6, 1), (7, 1), (8, 1),
+                      (6, 2), (7, 2), (8, 2)],
+                  4: [(0, 3), (1, 3), (2, 3),
+                      (0, 4), (1, 4), (2, 4),
+                      (0, 5), (1, 5), (2, 5)],
+                  5: [(3, 3), (4, 3), (5, 3),
+                      (3, 4), (4, 4), (5, 4),
+                      (3, 5), (4, 5), (5, 5)],
+                  6: [(6, 3), (7, 3), (8, 3),
+                      (6, 4), (7, 4), (8, 4),
+                      (6, 5), (7, 5), (8, 5)],
+                  7: [(0, 6), (1, 6), (2, 6),
+                      (0, 7), (1, 7), (2, 7),
+                      (0, 8), (1, 8), (2, 8)],
+                  8: [(3, 6), (4, 6), (5, 6),
+                      (3, 7), (4, 7), (5, 7),
+                      (3, 8), (4, 8), (5, 8)],
+                  9: [(6, 6), (7, 6), (8, 6),
+                      (6, 7), (7, 7), (8, 7),
+                      (6, 8), (7, 8), (8, 8)]}
+
 
 def split_board(board):
     subsquares = {1: board[0:3, 0:3],
@@ -57,7 +85,16 @@ def check_board(board):
     return solved_cols, solved_rows, solved
 
 
-def educated_guess(board):
+def check_missing(subset):
+    check = [1,2,3,4,5,6,7,8,9]
+    missing = []
+    for n in check:
+        if n not in subset:
+            missing.append(n)
+    return missing
+
+
+def educated_guess(board, zerod):
     """
     Algorithm for solving:
     [1] Pick number 1-9
@@ -72,6 +109,7 @@ def educated_guess(board):
     """
     squares = split_board(board)
     start = np.random.random_integers(1, 9, 1)[0]
+    # start = 5
     print 'starting with  %s' % start
     locations = []
     subcontain = list()
@@ -81,56 +119,34 @@ def educated_guess(board):
             subcontain.append(sq)
         else:
             empty_subsquares.append(sq)
-    print '%d is in %s ' % (start, subcontain)
 
-    subsquares = {1: [(0, 0), (1, 0), (2, 0),
-                      (0, 1), (1, 1), (2, 1),
-                      (0, 2), (1, 2), (2, 2)],
-                  2: [(3, 0), (4, 0), (5, 0),
-                      (3, 1), (4, 1), (5, 1),
-                      (3, 2), (4, 2), (5, 2)],
-                  3: [(6, 0), (7, 0), (8, 0),
-                      (6, 1), (7, 1), (8, 1),
-                      (6, 2), (7, 2), (8, 2)],
-                  4: [(0, 3), (1, 3), (2, 3),
-                      (0, 4), (1, 4), (2, 4),
-                      (0, 5), (1, 5), (2, 5)],
-                  5: [(3, 3), (4, 3), (5, 3),
-                      (3, 4), (4, 4), (5, 4),
-                      (3, 5), (4, 5), (5, 5)],
-                  6: [(6, 3), (7, 3), (8, 3),
-                      (6, 4), (7, 4), (8, 4),
-                      (6, 5), (7, 5), (8, 5)],
-                  7: [(0, 6), (1, 6), (2, 6),
-                      (0, 7), (1, 7), (2, 7),
-                      (0, 8), (1, 8), (2, 8)],
-                  8: [(3, 6), (4, 6), (5, 6),
-                      (3, 7), (4, 7), (5, 7),
-                      (3, 8), (4, 8), (5, 8)],
-                  9: [(6, 6), (7, 6), (8, 6),
-                      (6, 7), (7, 7), (8, 7),
-                      (6, 8), (7, 8), (8, 8)]}
     for square in subcontain:
         ii = 0
         for row in squares[square]:
             for element in row:
+                pos = subsquares[square][ii]
                 if element == start:
-                    locations.append(subsquares[square][ii])
+                    locations.append(pos)
                 ii += 1
-    print '%d is located at %s' % (start, locations)
-    for cell in empty_subsquares:
-        jj = 0
-        for r in squares[cell]:
-            # TODO: Quickly check the [1-9] squares[cell] DOES have
-            for c in r:
-                [x, y] = subsquares[cell][jj]
-                for position in locations:
-                    if x == position[0] and y != position[1]:
-                        print '[%d,%d] %d' % (y, x, board[x, y])
 
-
-                jj += 1
+    print '%d is in %s ' % (start, subcontain)
+    print '(Missing from %s)' % (empty_subsquares)
     return board
+
+
+def locate_zeros(squares):
+    zed = []
+    for sq in squares.keys():
+        ii = 0
+        for row in squares[sq]:
+            for element in row:
+                if element == 0:
+                    zed.append(subsquares[sq][ii])
+                ii += 1
+    n_zed = len(zed)
+    pempty = float(n_zed)/81*100
+    print '%d Zeros Found [%s Percent Empty]' % (n_zed,str(pempty))
+    return zed, pempty
 
 
 def main():
@@ -149,22 +165,23 @@ def main():
             board.append(r)
         board = np.array(board)
         if debug:
-            print '====================================='
-            print 'Test Board Loaded: '
+            print '\033[1m=====================================\033[0m'
+            print '\033[1m\033[31mTest Board Loaded: \033[0m\033[1m'
             print board
-            print '====================================='
-
+            print '=====================================\033[0m'
+        rnd = 0
         solved = False
         while not solved:
             cols, rows, solved = check_board(board)
+            zeros, unsolved_ratio = locate_zeros(split_board(board))
+            board = educated_guess(board, zeros)
+            print board
             if solved:
                 print '\033[1m\033[31mFINISHED! \033[0m\033[1m[%s]\033[0m' % str(time.time() - t0)
 
-            board = educated_guess(board)
-
-            if debug:
+            if debug and rnd >=1:
                 break
-
+            rnd += 1
 
 if __name__ == '__main__':
     main()
