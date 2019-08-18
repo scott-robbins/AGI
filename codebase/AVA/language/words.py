@@ -43,7 +43,7 @@ def web_search(link, verbose):
     DATA['Cookies'] = cookies
 
     # TODO: FOR DEBUGGING
-    file_name = '%s.txt' % link.split('.org/wiki/')[1]
+    file_name = '%s.txt' % link.split('.org/wiki/')[1].replace(' ','_')
     print 'Dumping to LogFile %s' % file_name
     os.system('touch %s' % file_name)
     dump = ''

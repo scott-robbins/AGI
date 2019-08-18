@@ -1,0 +1,332 @@
+<b>Leo Gordon Laporte</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;p&#39; in &#39;pie&#39;">p</span><span title="/ɔːr/: &#39;ar&#39; in &#39;war&#39;">ɔːr</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span></span>/</a></span></span>; born November 29, 1956)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> is the host of <a href="/wiki/The_Tech_Guy" title="The Tech Guy">The Tech Guy</a> weekly radio show <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and a host on <a href="/wiki/TWiT.tv" title="TWiT.tv">TWiT.tv</a>, an Internet <a href="/wiki/Podcast" title="Podcast">podcast</a> network focusing on technology. He is also a former TV technology host (1998–2008) and technology author (1995, 2002–2006).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Television_and_radio"><span class="tocnumber">2</span> <span class="toctext">Television and radio</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Books"><span class="tocnumber">3</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Podcasting"><span class="tocnumber">4</span> <span class="toctext">Podcasting</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+Laporte, the son of a <a href="/wiki/Geologist" title="Geologist">geologist</a>, studied Chinese history at <a href="/wiki/Yale_University" title="Yale University">Yale University</a> before dropping out in his junior year to pursue his career in radio broadcasting,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> where his early on-air names were Dave Allen and Dan Hayes.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He began his association with computers with his first <a href="/wiki/Home_computer" title="Home computer">home computer</a>, an <a href="/wiki/Atari_8-bit_family" title="Atari 8-bit family">Atari 400</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Television_and_radio">Television and radio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=2" title="Edit section: Television and radio">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+Laporte has worked on technology-related broadcasting projects, including <i>Dvorak on Computers</i> in January 1991 (co-hosted with technology writer <a href="/wiki/John_C._Dvorak" title="John C. Dvorak">John C. Dvorak</a>), and <i>Laporte on Computers</i> on <a href="/wiki/KGO_(AM)" title="KGO (AM)">KGO Radio</a> and <a href="/wiki/KSFO_(AM)" class="mw-redirect" title="KSFO (AM)">KSFO</a> in San Francisco.<sup id="cite_ref-Wired_6-0" class="reference"><a href="#cite_note-Wired-6">&#91;6&#93;</a></sup>
+</p>
+In 1997, Laporte was awarded a Northern California Emmy for his role as <a href="/wiki/Dev_Null" title="Dev Null">Dev Null</a>, a <a href="/wiki/Motion-capture_acting" title="Motion-capture acting">motion capture</a> character on the <a href="/wiki/MSNBC" title="MSNBC">MSNBC</a> show <i><a href="/wiki/The_Site" title="The Site">The Site</a></i>.
+</p>
+In 1998, Laporte created and co-hosted <i><a href="/wiki/The_Screen_Savers" title="The Screen Savers">The Screen Savers</a></i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> and the original version of <i>Call for Help</i> on the <a href="/wiki/Cable_television" title="Cable television">cable</a> and <a href="/wiki/Satellite_television" title="Satellite television">satellite</a> network <a href="/wiki/ZDTV" class="mw-redirect" title="ZDTV">ZDTV</a> (later <i>TechTV</i>).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+Laporte was the host of the daily television show <i><a href="/wiki/The_Lab_with_Leo_Laporte" title="The Lab with Leo Laporte">The Lab with Leo Laporte</a></i>, recorded in <a href="/wiki/Vancouver" title="Vancouver">Vancouver, British Columbia</a>, Canada. The program had formerly been known as <i><a href="/wiki/Call_for_Help_(television_program)" class="mw-redirect" title="Call for Help (television program)">Call for Help</a></i> when it was recorded in the U.S. and <a href="/wiki/Toronto" title="Toronto">Toronto</a>, Ontario. The series aired on <a href="/wiki/G4_(Canada)" class="mw-redirect" title="G4 (Canada)">G4 Canada</a>, on the <a href="/wiki/HOW_TO_Channel" title="HOW TO Channel">HOW TO Channel</a> in Australia, on several of Canada's <a href="/wiki/City_(TV_network)" class="mw-redirect" title="City (TV network)">Citytv</a> affiliates, and on <a href="/wiki/Google_Video" title="Google Video">Google Video</a>. On March 5, 2008, Laporte confirmed on <i>net@nite</i> that <i>The Lab with Leo Laporte</i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> had been canceled by <a href="/wiki/Rogers_Communications" title="Rogers Communications">Rogers Communications</a>. The <a href="/wiki/HOW_TO_Channel" title="HOW TO Channel">HOW TO Channel</a> refused to air the remaining episodes after it was announced the show had been canceled.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+He hosts a weekend technology-oriented <a href="/wiki/Talk_radio" title="Talk radio">talk radio</a> program show titled <i>Leo Laporte: <a href="/wiki/The_Tech_Guy" title="The Tech Guy">The Tech Guy</a>.</i> The show, started on <a href="/wiki/KFI_AM_640" class="mw-redirect" title="KFI AM 640">KFI AM 640</a> (Los Angeles), is now syndicated through <a href="/wiki/Premiere_Radio_Networks" class="mw-redirect" title="Premiere Radio Networks">Premiere Radio Networks</a>. Laporte also appears on Friday mornings on KFI with <a href="/wiki/Bill_Handel" title="Bill Handel">Bill Handel</a>, and previously on such shows as <i><a href="/wiki/Showbiz_Tonight" title="Showbiz Tonight">Showbiz Tonight</a></i>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> <i><a href="/wiki/Live_with_Kelly" class="mw-redirect" title="Live with Kelly">Live with Kelly</a></i>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> and <i><a href="/wiki/World_News_Now" title="World News Now">World News Now</a></i>.
+He holds an <a href="/wiki/Amateur_radio" title="Amateur radio">amateur radio</a> license, W6TWT.
+</p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+Laporte has written technology-oriented books including:
+</p>
+<ul><li><i>101 Computer Answers You Need to Know</i> <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1562763393" title="Special:BookSources/1562763393">1562763393</a>,</li>
+<li><i>Leo Laporte's 2005 Gadget Guide</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0789731746" title="Special:BookSources/0789731746">0789731746</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><i>Leo Laporte's Guide to TiVo</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0789731959" title="Special:BookSources/0789731959">0789731959</a>,</li>
+<li><i>Leo Laporte's Guide to <a href="/wiki/Mac_OS_X_Tiger" title="Mac OS X Tiger">Mac OS X Tiger</a></i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0789733935" title="Special:BookSources/0789733935">0789733935</a></li>
+<li><i>Leo Laporte's PC Help Desk</i>.</li></ul>
+
+He has published a yearly series of technology almanacs: 
+</p>
+<ul><li><i>Leo Laporte's Technology Almanac</i></li>
+<li><i>Poor Leo's Computer Almanac</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0768654920" title="Special:BookSources/0768654920">0768654920</a>.</li>
+<li><i>Leo Laporte's 2006 Technology Almanac</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0789733978" title="Special:BookSources/0789733978">0789733978</a>.</li></ul>
+
+Laporte announced in October 2006 that he would not renew his contract with <a href="/wiki/Que_Publishing" class="mw-redirect" title="Que Publishing">Que Publishing</a>, and had retired from publishing books.
+</p>
+In 2008, Laporte did a voice narration of the <a href="/wiki/Public_domain" title="Public domain">public domain</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> <a href="/wiki/Fable" title="Fable">fable</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> <i><a href="/wiki/Little_Red_Riding_Hood#After_the_Grimms" title="Little Red Riding Hood">The True History of Little Golden-hood</a></i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> by <a href="/wiki/Andrew_Lang" title="Andrew Lang">Andrew Lang</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> from <a href="/wiki/Audible.com" class="mw-redirect" title="Audible.com">Audible (Amazon)</a>, a sponsor.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Podcasting">Podcasting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=4" title="Edit section: Podcasting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+Laporte owns and operates a <a href="/wiki/Podcast" title="Podcast">podcast</a> network, <a href="/wiki/TWiT.tv_(network)" class="mw-redirect" title="TWiT.tv (network)">TWiT.tv</a> with his wife<sup id="cite_ref-MarriedLisa_20-0" class="reference"><a href="#cite_note-MarriedLisa-20">&#91;20&#93;</a></sup> Lisa Laporte. Its shows are available on <a href="/wiki/ITunes" title="ITunes">iTunes</a> and other podcast subscription services. Before the expansion to new facilities in 2011, Laporte said TWiT earned $1.5 million annually on a production cost of $350,000.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> In a 2012 <a href="/wiki/Reddit" title="Reddit">Reddit</a> posting, he commented that revenue was approaching $4 million.<sup id="cite_ref-Leo_Laporte_22-0" class="reference"><a href="#cite_note-Leo_Laporte-22">&#91;22&#93;</a></sup>
+</p>
+<table class="box-Third-party plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may rely excessively on sources <a href="/wiki/Wikipedia:BLOGS" class="mw-redirect" title="Wikipedia:BLOGS">too closely associated with the subject</a></b>, potentially preventing the article from being <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiable</a> and <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral</a>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Leo_Laporte&amp;action=edit">improve it</a> by replacing them with more appropriate <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to <a href="/wiki/Wikipedia:Identifying_and_using_independent_sources" title="Wikipedia:Identifying and using independent sources">reliable, independent, third-party sources</a>.</span>  <small class="date-container"><i>(<span class="date">July 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+
+The TWiT studios are located in <a href="/wiki/Petaluma,_California" title="Petaluma, California">Petaluma, California</a>, where Laporte lives. On August 21, 2016, they moved into their current facilities at 1351-B Redwood Way.<sup id="cite_ref-eastside_23-0" class="reference"><a href="#cite_note-eastside-23">&#91;23&#93;</a></sup> The TWiT studios have always been in Petaluma, but in three different locations. TWiT identified the first as the "TWiT Cottage," the second as the "TWiT Brick House," and the current location as the "TWiT Eastside Studios."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-eastside_23-1" class="reference"><a href="#cite_note-eastside-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tv.com/leo-laporte/person/175861/summary.html">Leo Laporte Information</a>. <i>TV.com</i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.premierenetworks.com/Pages/Leo-Laporte-The-Tech-Guy.aspx">"Leo Laporte, your Go-To Gadget Guy"</a>. <i>Premiere Radio Networks</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Premiere+Radio+Networks&amp;rft.atitle=Leo+Laporte%2C+your+Go-To+Gadget+Guy&amp;rft_id=http%3A%2F%2Fwww.premierenetworks.com%2FPages%2FLeo-Laporte-The-Tech-Guy.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Schwartzman, Eric (September 1, 2005). <a rel="nofollow" class="external text" href="http://ontherecordpodcast.com/on-the-record-online-with-leo-laporte-of-this-week-in-tech">"On the Record...Online with Leo Laporte of This Week in Tech"</a>. <i>On the Record Online</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=On+the+Record+Online&amp;rft.atitle=On+the+Record...Online+with+Leo+Laporte+of+This+Week+in+Tech&amp;rft.date=2005-09-01&amp;rft.aulast=Schwartzman&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fontherecordpodcast.com%2Fon-the-record-online-with-leo-laporte-of-this-week-in-tech&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">TwitLive Broadcast, after hours, 2008-12-09</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060926020523/http://www.g4tv.com/techtvvault/features/6296/Focus_On_Leo.html">"Focus On: Leo"</a>. <i><a href="/wiki/G4_(U.S._TV_channel)" class="mw-redirect" title="G4 (U.S. TV channel)">G4</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.g4tv.com/techtvvault/features/6296/Focus_On_Leo.html">the original</a> on September 26, 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=G4&amp;rft.atitle=Focus+On%3A+Leo&amp;rft_id=http%3A%2F%2Fwww.g4tv.com%2Ftechtvvault%2Ffeatures%2F6296%2FFocus_On_Leo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Wired-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wired_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://archive.wired.com/science/discoveries/news/2006/10/71893?currentPage=all">"Podcasting's Reluctant Evangelist"</a>. <i>WIRED</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WIRED&amp;rft.atitle=Podcasting%27s+Reluctant+Evangelist&amp;rft_id=http%3A%2F%2Farchive.wired.com%2Fscience%2Fdiscoveries%2Fnews%2F2006%2F10%2F71893%3FcurrentPage%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tvseriesfinale.com/tv-show/attack-of-the-show-finale-features-return-of-the-screen-savers-26524/">"Attack of the Show!: Finale Features Return of The Screen Savers"</a>. <i>tvseriesfinale.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tvseriesfinale.com&amp;rft.atitle=Attack+of+the+Show%21%3A+Finale+Features+Return+of+The+Screen+Savers&amp;rft_id=http%3A%2F%2Ftvseriesfinale.com%2Ftv-show%2Fattack-of-the-show-finale-features-return-of-the-screen-savers-26524%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tv.com/shows/call-for-help/">"Call for Help"</a>. <i>TV.com</i>. CBS Interactive.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TV.com&amp;rft.atitle=Call+for+Help&amp;rft_id=http%3A%2F%2Fwww.tv.com%2Fshows%2Fcall-for-help%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.org/details/The.Lab.with.Leo">The Lab with Leo Laporte</a> <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.clickonline.org.au/2008/03/27/lab-with-leo-off-tv-in-australia-let-us-see-the-remaining-episodes/">Lab with Leo off TV in Australia – Let us See the Remaining Episodes</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080804031636/http://blog.clickonline.org.au/2008/03/27/lab-with-leo-off-tv-in-australia-let-us-see-the-remaining-episodes/">Archived</a> August 4, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.clickonline.org.au/2008/03/27/response-from-how-to-channel-australia-regarding-the-lab-with-leo/">Response from How-To Channel Australia Regarding The Lab with Leo</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080804031755/http://blog.clickonline.org.au/2008/03/27/response-from-how-to-channel-australia-regarding-the-lab-with-leo/">Archived</a> August 4, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://transcripts.cnn.com/TRANSCRIPTS/0507/25/sbt.01.html">"CNN.com – Transcripts"</a>. <i>cnn.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cnn.com&amp;rft.atitle=CNN.com+%E2%80%93+Transcripts&amp;rft_id=http%3A%2F%2Ftranscripts.cnn.com%2FTRANSCRIPTS%2F0507%2F25%2Fsbt.01.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://leoville.com/Appearances/LiveWithRegisAndKelly">Leoville: Live with Regis and Kelly</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070312214849/http://leoville.com/Appearances/LiveWithRegisAndKelly">Archived</a> March 12, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Laporte, Leo; Stauffer, Todd (2005). <a rel="nofollow" class="external text" href="https://archive.org/details/leolaportes2005mac00lapo">"Leo Laporte's 2005 Mac gadget guide"</a>. Indianapolis, IN: Que. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0789731746" title="Special:BookSources/0789731746"><bdi>0789731746</bdi></a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="//lccn.loc.gov/2004107074">2004107074</a>. <q>Free eBook from the Internet Archive</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leo+Laporte%27s+2005+Mac+gadget+guide&amp;rft.place=Indianapolis%2C+IN&amp;rft.pub=Que&amp;rft.date=2005&amp;rft_id=info%3Alccn%2F2004107074&amp;rft.isbn=0789731746&amp;rft.aulast=Laporte&amp;rft.aufirst=Leo&amp;rft.au=Stauffer%2C+Todd&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fleolaportes2005mac00lapo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gutenberg.org/ebooks/author/79">Books by Lang, Andrew – Project Gutenberg</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pitt.edu/~dash/type0333.html">Little Red Riding Hood and other tales of Aarne-Thompson-Uther type 333 translated and/or edited by D. L. Ashliman</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ebooks.adelaide.edu.au/l/lang/andrew/l26rf/chapter21.html">The Red Fairy Book, by Andrew Lang&#160;: THE TRUE HISTORY OF LITTLE GOLDEN HOOD</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ebooks.adelaide.edu.au/l/lang/andrew/">Andrew Lang, 1844–1912</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://twit.tv/taxonomy/term/1/0/feed">TWiT.TV – this WEEK in TECH</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121055714/http://twit.tv/taxonomy/term/1/0/feed">Archived</a> January 21, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-MarriedLisa-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-MarriedLisa_20-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twit.tv/shows/triangulation/episodes/187/">Danae Ringelmann</a> interviewed on the TV show Triangulation on the <a href="/wiki/TWiT.tv" title="TWiT.tv">TWiT.tv</a> network</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Pete Cashmore. <a rel="nofollow" class="external text" href="http://mashable.com/2009/10/03/leo-laporte-video/">"Leo Laporte Makes $1.5 Million Per Year from Podcasting"</a>. <a href="/wiki/Mashable" title="Mashable">Mashable</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leo+Laporte+Makes+%241.5+Million+Per+Year+from+Podcasting&amp;rft.pub=Mashable&amp;rft.au=Pete+Cashmore&amp;rft_id=http%3A%2F%2Fmashable.com%2F2009%2F10%2F03%2Fleo-laporte-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Leo_Laporte-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leo_Laporte_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Leo Laporte. <a rel="nofollow" class="external text" href="https://www.reddit.com/r/IAmA/comments/xh75q/i_am_leo_laporte_chief_twit_ama/c5maz0q">"TWiT revenue at $4 million"</a>. <a href="/wiki/Reddit" title="Reddit">Reddit</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 2,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TWiT+revenue+at+%244+million&amp;rft.pub=Reddit&amp;rft.au=Leo+Laporte&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2FIAmA%2Fcomments%2Fxh75q%2Fi_am_leo_laporte_chief_twit_ama%2Fc5maz0q&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-eastside-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-eastside_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eastside_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wiki.twit.tv/wiki/TWiT_Eastside_Studio_FAQ">"TWiT Eastside Studio FAQ"</a>. <i>The Official TWiT Wiki</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Official+TWiT+Wiki&amp;rft.atitle=TWiT+Eastside+Studio+FAQ&amp;rft_id=http%3A%2F%2Fwiki.twit.tv%2Fwiki%2FTWiT_Eastside_Studio_FAQ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wiki.twit.tv/wiki/TWiT_Cottage">"TWiT Cottage"</a>. <i>The Official TWiT Wiki</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Official+TWiT+Wiki&amp;rft.atitle=TWiT+Cottage&amp;rft_id=http%3A%2F%2Fwiki.twit.tv%2Fwiki%2FTWiT_Cottage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wiki.twit.tv/wiki/TWiT_Brick_House">"TWiT Brick House"</a>. <i>The Official TWiT Wiki</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Official+TWiT+Wiki&amp;rft.atitle=TWiT+Brick+House&amp;rft_id=http%3A%2F%2Fwiki.twit.tv%2Fwiki%2FTWiT_Brick_House&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeo+Laporte" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Leo_Laporte" class="extiw" title="commons:Category:Leo Laporte">Leo Laporte</a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Leo_Laporte" class="extiw" title="q:Special:Search/Leo Laporte">Leo Laporte</a></b></i></td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.leoville.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0487726/">Leo Laporte</a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a>&#32;</li>
+<li><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n95-055917/">Leo Laporte</a> in libraries (<a href="/wiki/WorldCat" title="WorldCat">WorldCat</a> catalog)</li>
+<li><a rel="nofollow" class="external text" href="http://www.worldcat.org/search?q=Leo+Laporte">Works by or about Leo Laporte</a> in libraries (<a href="/wiki/WorldCat" title="WorldCat">WorldCat</a> catalog)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="TWiT.tv" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:TWiT_podcasts" title="Template:TWiT podcasts"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:TWiT_podcasts" title="Template talk:TWiT podcasts"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:TWiT_podcasts&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="TWiT.tv" style="font-size:114%;margin:0 4em"><a href="/wiki/TWiT.tv" title="TWiT.tv">TWiT.tv</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Podcast" title="Podcast">Podcasts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/This_Week_in_Tech" title="This Week in Tech">This Week in Tech</a></i></li>
+<li><i><a href="/wiki/The_New_Screen_Savers" class="mw-redirect" title="The New Screen Savers">The New Screen Savers</a></i></li>
+<li><i><a href="/wiki/FLOSS_Weekly" title="FLOSS Weekly">FLOSS Weekly</a></i></li>
+<li><i><a href="/wiki/MacBreak" title="MacBreak">MacBreak Weekly</a></i></li>
+<li><i><a href="/wiki/Security_Now" title="Security Now">Security Now</a></i></li>
+<li><i><a href="/wiki/The_Tech_Guy" title="The Tech Guy">The Tech Guy</a></i></li>
+<li><i><a href="/wiki/Tech_News_Today" title="Tech News Today">Tech News Today</a></i></li>
+<li><i><a href="/wiki/Tech_News_2Night" class="mw-redirect" title="Tech News 2Night">Tech News 2Night</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hosts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Robert_Ballecer" title="Robert Ballecer">Robert Ballecer</a></li>
+<li><a href="/wiki/Dick_DeBartolo" title="Dick DeBartolo">Dick DeBartolo</a></li>
+<li><a href="/wiki/Mary_Jo_Foley" title="Mary Jo Foley">Mary Jo Foley</a></li>
+<li><a href="/wiki/Steve_Gibson_(computer_programmer)" title="Steve Gibson (computer programmer)">Steve Gibson</a></li>
+<li><a href="/wiki/Bob_Heil" title="Bob Heil">Bob Heil</a></li>
+<li><a href="/wiki/Andy_Ihnatko" title="Andy Ihnatko">Andy Ihnatko</a></li>
+<li><a href="/wiki/Jeff_Jarvis" title="Jeff Jarvis">Jeff Jarvis</a></li>
+<li><a class="mw-selflink selflink">Leo Laporte</a></li>
+<li><a href="/wiki/Alex_Lindsay" title="Alex Lindsay">Alex Lindsay</a></li>
+<li><a href="/wiki/Megan_Morrone" title="Megan Morrone">Megan Morrone</a></li>
+<li><a href="/wiki/Patrick_Norton" title="Patrick Norton">Patrick Norton</a></li>
+<li><a href="/wiki/Randal_L._Schwartz" title="Randal L. Schwartz">Randal L. Schwartz</a></li>
+<li><a href="/wiki/Paul_Thurrott" title="Paul Thurrott">Paul Thurrott</a></li>
+<li><a href="/wiki/Gina_Trapani" title="Gina Trapani">Gina Trapani</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2071994&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2071994&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q2071994" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000031872339">0000 0000 3187 2339</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n95055917">n95055917</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/65718399">65718399</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/65718399">65718399</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20190812180013
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.528 seconds
+Real time usage: 0.742 seconds
+Preprocessor visited node count: 3607/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58949/2097152 bytes
+Template argument size: 6401/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 53215/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.235/10.000 seconds
+Lua memory usage: 6.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  679.801      1 -total
+ 22.20%  150.923      1 Template:Reflist
+ 19.50%  132.578      1 Template:Infobox_presenter
+ 18.78%  127.698      1 Template:Infobox_person
+ 16.43%  111.692      6 Template:ISBN
+ 16.07%  109.243      2 Template:Infobox
+ 15.65%  106.391     13 Template:Cite_web
+  9.18%   62.397      6 Template:Catalog_lookup_link
+  6.49%   44.103      1 Template:Short_description
+  5.52%   37.557      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:397936-0!canonical and timestamp 20190812180012 and revision id 907079284
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Leo_Laporte&amp;oldid=907079284">https://en.wikipedia.org/w/index.php?title=Leo_Laporte&amp;oldid=907079284</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1956_births" title="Category:1956 births">1956 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_bloggers" title="Category:American bloggers">American bloggers</a></li><li><a href="/wiki/Category:American_podcasters" title="Category:American podcasters">American podcasters</a></li><li><a href="/wiki/Category:American_talk_radio_hosts" title="Category:American talk radio hosts">American talk radio hosts</a></li><li><a href="/wiki/Category:American_television_personalities" title="Category:American television personalities">American television personalities</a></li><li><a href="/wiki/Category:Canadian_television_hosts" title="Category:Canadian television hosts">Canadian television hosts</a></li><li><a href="/wiki/Category:TechTV_people" title="Category:TechTV people">TechTV people</a></li><li><a href="/wiki/Category:People_from_Sonoma_County,_California" title="Category:People from Sonoma County, California">People from Sonoma County, California</a></li><li><a href="/wiki/Category:People_from_New_York_City" title="Category:People from New York City">People from New York City</a></li><li><a href="/wiki/Category:Emmy_Award_winners" title="Category:Emmy Award winners">Emmy Award winners</a></li><li><a href="/wiki/Category:Amateur_radio_people" title="Category:Amateur radio people">Amateur radio people</a></li><li><a href="/wiki/Category:TWiT_people" title="Category:TWiT people">TWiT people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_May_2013" title="Category:Use mdy dates from May 2013">Use mdy dates from May 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:No_local_image_but_image_on_Wikidata" title="Category:No local image but image on Wikidata">No local image but image on Wikidata</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2017" title="Category:Articles lacking reliable references from July 2017">Articles lacking reliable references from July 2017</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Leo+Laporte" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Leo+Laporte" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Leo_Laporte" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Leo_Laporte" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Leo_Laporte">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Leo_Laporte&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Leo_Laporte&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Leo_Laporte" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Leo_Laporte" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Leo_Laporte&amp;oldid=907079284" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Leo_Laporte&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2071994" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Leo_Laporte&amp;id=907079284" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Leo_Laporte" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Leo_Laporte" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Leo+Laporte">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Leo+Laporte&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Leo_Laporte&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Leo_Laporte" title="Leo Laporte – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Leo_Laporte" title="Leo Laporte – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%90%D7%95_%D7%9C%D7%90%D7%A4%D7%95%D7%A8%D7%98" title="ליאו לאפורט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BF%D0%BE%D1%80%D1%82%D0%B5,_%D0%9B%D0%B5%D0%BE" title="Лапорте, Лео – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Leo_Laporte" title="Leo Laporte – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2071994#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 July 2019, at 10:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Leo_Laporte&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.742","ppvisitednodes":{"value":3607,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58949,"limit":2097152},"templateargumentsize":{"value":6401,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53215,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  679.801      1 -total"," 22.20%  150.923      1 Template:Reflist"," 19.50%  132.578      1 Template:Infobox_presenter"," 18.78%  127.698      1 Template:Infobox_person"," 16.43%  111.692      6 Template:ISBN"," 16.07%  109.243      2 Template:Infobox"," 15.65%  106.391     13 Template:Cite_web","  9.18%   62.397      6 Template:Catalog_lookup_link","  6.49%   44.103      1 Template:Short_description","  5.52%   37.557      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":6794799,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190812180013","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Leo Laporte","url":"https:\/\/en.wikipedia.org\/wiki\/Leo_Laporte","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2071994","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2071994","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T21:59:14Z","dateModified":"2019-07-20T10:17:14Z","headline":"American technology broadcaster, author, and entrepreneur"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1240"});});</script>
+</body>
+</html>
+
