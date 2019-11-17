@@ -40,6 +40,26 @@ def generate_random_steps(start, steps):
     return moves, choices
 
 
+def steps2inds(start, steps):
+    walk = []
+    ii = 0
+    # TODO: This isnt working correctly...
+    for step in steps:
+        x = start[0]
+        y = start[1]
+        if ii > 0:
+            directions = {1: [x - 1, y - 1], 2: [x, y - 1], 3: [x + 1, y - 1],
+                          4: [x - 1, y], 5: [x, y], 6: [x + 1, y],
+                          7: [x - 1, y + 1], 8: [x, y + 1], 9: [x + 1, y + 1]}
+            for opt in directions.keys():
+                mov = directions[opt]
+                if mov[0] == x and mov[1] == y:
+                    walk.append(opt)
+                    start = [x, y]
+        ii += 1
+    return walk
+
+
 def generate_world(width, height, n_food, show):
     world = np.zeros((width, height, 3))
     bits = []
@@ -58,6 +78,7 @@ def generate_world(width, height, n_food, show):
 
 
 def check_steps(moves, world):
+    captured = []
     score = 0
     for step in moves:
         try:
@@ -65,6 +86,7 @@ def check_steps(moves, world):
             y = int(step[1])
             if world[x, y, 1] == 1 and (world[x, y, 0] and world[x, y, 2]) == 0:
                 score += 1
+                captured.append([x, y])
         except TypeError:
             pass
     return score
@@ -82,3 +104,19 @@ def animate_steps(moves, world):
         reel.append([plt.imshow(world)])
     a = animation.ArtistAnimation(f,reel,interval=100,blit=True,repeat_delay=900)
     plt.show()
+
+
+def inds2steps(start, nums):
+    moves = [start]
+    for step in nums:
+        try:
+            x = start[0]
+            y = start[1]
+            directions = {1: [x - 1, y - 1], 2: [x, y - 1], 3: [x + 1, y - 1],
+                          4: [x - 1, y], 5: [x, y], 6: [x + 1, y],
+                          7: [x - 1, y + 1], 8: [x, y + 1], 9: [x + 1, y + 1]}
+            moves.append(directions[step])
+            start = directions[step]
+        except IndexError:
+            pass
+    return moves
